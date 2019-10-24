@@ -1,0 +1,48 @@
+<!doctype html>
+<center>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Titre de la page</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+<h1>Travel the world</h1>
+
+<ul>
+You can book a trip on our website for the following destinations:
+
+<li>Bhutan</li>
+<li>North India</li>
+<li>Peru</li>
+
+Feel free to check out our all inclusive trips which include:
+
+<li>yoga classes</li>
+<li>trips to local organic farms</li>
+</ul>
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: #ffe6cc
+}
+</style>
+</head>
+</html>
+</center>
+<!DOCTYPE html>
+<html>
+
+<body>
+
+</body>
+</html>
+
+<ul>
